@@ -46,6 +46,7 @@ begin
     require 'traceview/instrumentation'
 
     # Frameworks
+    require 'traceview/frameworks/merb'
     require 'traceview/frameworks/rails'
     require 'traceview/frameworks/sinatra'
     require 'traceview/frameworks/padrino'

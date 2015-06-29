@@ -196,7 +196,7 @@ module TraceViewBase
   # or not
   #
   def framework?
-    defined?(::Rails) or defined?(::Sinatra) or defined?(::Padrino) or defined?(::Grape)
+    defined?(::Merb) or defined?(::Rails) or defined?(::Sinatra) or defined?(::Padrino) or defined?(::Grape)
   end
 
   ##
