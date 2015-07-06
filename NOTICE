@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 The purpose of this fork is to add compatability to Ruby 1.9.2 and the Merb framework.
+=======
+The purpose of this fork is to add compatability to the Merb framework.
+
+Files including "Derivative Works" shalled be documented.
+>>>>>>> 0db55c8... Initial commit and add notice file
